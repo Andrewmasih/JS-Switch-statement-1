@@ -1,5 +1,5 @@
 
-/* it compares each case to the value of the expression. The switch statement is used when there are more case to be checked */
+/* it compares each case to the value of the expression. The switch statement is used when there are more case to be checked. */
 
 let fruit = "Banana";
 
